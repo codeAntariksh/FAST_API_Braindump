@@ -1,0 +1,6 @@
+API Building --> An endpoint for Users to Access Databases via Backend
+FAST API --> Built in Python, fast, scalable and high performance Web Development framework
+
+Basically, Various Users (Android Frontend, IOS Frontend or Website Frontend) need Information Access and Retrieval in an application, to handle these requests simultaneously with abiding the principles of Object Orientation, We Build Backends and essentially APIS, these API Endpoints are accessed by the users which in turn is received by Backend as a request and the Backend skimmes through Databases (or here ML Models) and sends back a response to the User.
+
+Users --> FrontEnd(Android,IOS,Website) <-> API Endpoints <->  Backend <-> Databases/ML or DL Models
